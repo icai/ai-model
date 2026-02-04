@@ -1,2 +1,2 @@
 # ai-model
-ai model onnx file
+ai model files
