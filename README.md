@@ -1,5 +1,6 @@
 # ai-model
 
+
 A centralized repository for storing and distributing AI model releases — specifically PyTorch `.pt` weight files.
 
 This repository is intended as the authoritative source for model artifacts used in projects and deployments.
@@ -13,6 +14,10 @@ We currently have one official model release:
 ➡️ **[model · Release on GitHub](https://github.com/icai/ai-model/releases/tag/model)**
 
 Download model artifacts directly from the release page.
+
+
+![lama downloads](https://img.shields.io/github/downloads/icai/ai-model/model/lama.pt)
+![u2net downloads](https://img.shields.io/github/downloads/icai/ai-model/model/u2net.pt)
 
 ---
 
