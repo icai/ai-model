@@ -16,8 +16,12 @@ We currently have one official model release:
 Download model artifacts directly from the release page.
 
 
-![lama downloads](https://img.shields.io/github/downloads/icai/ai-model/model/lama.pt)
-![u2net downloads](https://img.shields.io/github/downloads/icai/ai-model/model/u2net.pt)
+## AI Models
+
+| Model | Download |
+|------|------|
+| lama | ![](https://img.shields.io/github/downloads/icai/ai-model/model/lama.pt) |
+| u2net | ![](https://img.shields.io/github/downloads/icai/ai-model/model/u2net.pt) |
 
 ---
 
